@@ -34,7 +34,7 @@ input#gamestart {
   border: 1px solid black;
   background-color: cornflowerblue;
   background-image: url();
-  //Add something here later in that url() btw.
+  /* Add something here later in that url() above btw. */
   background-repeat: repeat;
 }
 
