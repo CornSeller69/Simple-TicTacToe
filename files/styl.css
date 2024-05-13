@@ -1,0 +1,43 @@
+body {
+  background-color: lightblue;
+}
+
+button {
+  background-color: rgb(41, 41, 255);
+  font-style: italic;
+  border-color: blue;
+  width: 238.3px;
+  height: 50px;
+  color: blanchedalmond;
+  font-size: 20px;
+  font-family: 'Brush Script MT', cursive;
+}
+
+input#gamestart {
+  background-color: rgb(41, 41, 255);
+  font-style: italic;
+  border-color: blue;
+  width: 238.3px;
+  height: 50px;
+  color: blanchedalmond;
+  font-size: 20px;
+  font-family: 'Brush Script MT', cursive;
+}
+
+#logoi {
+  height: 50%;
+  width: 50%;
+  /*margin-left: 0;*/
+}
+
+.menut {
+  border: 1px solid black;
+  background-color: cornflowerblue;
+  background-image: url();
+  background-repeat: repeat;
+}
+
+.gamediv {
+  margin-left: 50%;
+  margin-right: 50%;
+}
