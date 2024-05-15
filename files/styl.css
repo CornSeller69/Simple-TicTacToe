@@ -1,0 +1,47 @@
+body {
+  background-color: lightblue;
+  background-image: url();
+}
+
+button {
+  background-color: rgb(41, 41, 255);
+  font-style: italic;
+  border-color: blue;
+  width: 238.3px;
+  height: 50px;
+  color: blanchedalmond;
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+input#gamestart {
+  background-color: rgb(41, 41, 255);
+  font-style: italic;
+  border-color: blue;
+  width: 238.3px;
+  height: 50px;
+  color: blanchedalmond;
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#logoi {
+  height: 50%;
+  width: 50%;
+  /*margin-left: 0;*/
+}
+
+.menut {
+  border: 1px solid black;
+  background-color: cornflowerblue;
+  background-image: url();
+  /* Add something here later in that url() above btw. */
+  background-repeat: repeat;
+}
+
+.gamediv {
+  margin-left: 50%;
+  margin-right: 50%;
+  width: 70%;
+  height: 80%;
+}
