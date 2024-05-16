@@ -1,6 +1,8 @@
 body {
   background-color: lightblue;
-  background-image: url();
+  background-image: url("https://raw.githubusercontent.com/CornSeller69/Simple-TicTacToe/main/Pics/bgim.png");
+  /* Zmień ten background-image później (Wygląda chujowo!!) */
+  background-repeat: repeat;
 }
 
 button {
@@ -28,13 +30,12 @@ input#gamestart {
 #logoi {
   height: 50%;
   width: 50%;
-  /*margin-left: 0;*/
 }
 
 .menut {
   border: 1px solid black;
   background-color: cornflowerblue;
-  background-image: url();
+  background-image: url("");
   /* Add something here later in that url() above btw. */
   background-repeat: repeat;
 }
@@ -44,4 +45,23 @@ input#gamestart {
   margin-right: 50%;
   width: 70%;
   height: 80%;
+}
+
+#p1 {
+  /*margin-left: -940px; */
+  font-size: 20px;
+  /*margin-left: -70%; */
+}
+
+.guzikiGame {
+  width: 150px;
+  height: 150px;
+  background-image: url("");
+  background-color: aliceblue;
+}
+
+.gametab {
+  background-color: aliceblue;
+  margin-left: 40%;
+  margin-right: 40%;
 }
